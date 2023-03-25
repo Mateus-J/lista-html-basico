@@ -1,0 +1,11 @@
+h1 {
+    margin: auto;
+}
+.lista-alimentos {
+    font-family: poppins, sans-serif;
+    box-sizing: border-box;
+    border: solid 1px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
